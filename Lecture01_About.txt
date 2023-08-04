@@ -1,0 +1,60 @@
+ Release Note: Statistics Calculator
+
+ 1. Welcome
+
+Welcome to the release note for the "Statistics Calculator" program authored by Mahmoud Tawfeek, a Network, Security, and Automation Software Developer at Vodafone International Services (_VoIS). This document provides an in-depth overview of the code, its functionality, and instructions for users on how to utilize the program effectively.
+
+ 2. Introduction
+
+The "Statistics Calculator" is a powerful tool designed to calculate various statistical measures for a given dataset. It empowers users to perform statistical analysis effortlessly, helping them gain insights into their data. Developed by Mahmoud Tawfeek, this program aims to simplify statistical calculations and enhance the user experience.
+
+ 3. Main Function
+
+The main function of the "Statistics Calculator" is to calculate and display a range of statistical measures for a given dataset. Users can either input data manually or load data from an Excel file. The program then calculates and presents essential statistical metrics such as mean, median, mode, range, variance, standard deviation, and more.
+
+ 4. Code Explanation in Details
+
+The code is structured as follows:
+
+1. Import Statements: Import necessary libraries and modules.
+2. GUI Setup: Create the graphical user interface using the Tkinter library.
+3. Data Input Functions: Read data either from a list or from an Excel file.
+4. Statistical Calculations: Calculate various statistical measures based on the provided data.
+5. Result Display and DOCX Export: Display calculated statistics and offer the option to save results in a Word document (DOCX).
+6. About and Formulas Pages: Provide information about the program and the formulas used for calculations.
+7. Sample Data Loading: Load sample data for testing and demonstration purposes.
+
+ 5. User Experience and How to Use the Program
+
+1. Enter data manually in the comma-separated format or load data from an Excel file.
+2. Click the "Calculate from List" or "Calculate from Excel" button to compute statistics.
+3. The program displays calculated statistics, including mean, median, mode, etc.
+4. Optionally, save the results to a DOCX file by clicking the "Save to DOCX?" button.
+5. Explore the "About" page for additional information about the program.
+6. View the "Formulas Used" page to understand the mathematical calculations performed.
+7. Load sample data for practice using the "Load Sample List" or "Load Sample Excel" buttons.
+
+ 6. Copyrights
+
+The "Statistics Calculator" program and its associated code, documentation, and graphical user interface are the intellectual property of Mahmoud Tawfeek, a Network, Security, and Automation Software Developer at Vodafone International Services (_VoIS). All rights reserved.
+
+ 7. Conclusion
+
+In conclusion, the "Statistics Calculator" by Mahmoud Tawfeek offers an efficient and user-friendly solution for performing statistical analysis on datasets. Its intuitive interface and comprehensive calculations empower users to gain valuable insights from their data effortlessly.
+
+ 8. Possible Enhancements
+
+Future enhancements for the "Statistics Calculator" could include:
+
+1. Interactive data visualization to complement statistical results.
+2. Support for additional file formats for data input.
+3. Integration with cloud services for data storage and collaboration.
+
+For inquiries, feedback, or collaboration opportunities, please contact Mahmoud Tawfeek at mahmoud.m.tawfeek@gmail.com
+
+Thank you for choosing the "Statistics Calculator." We trust that this tool will contribute positively to your data analysis endeavors.
+
+Best regards,
+Mahmoud Tawfeek
+Network, Security, and Automation Software Developer
+Vodafone International Services (_VoIS)
